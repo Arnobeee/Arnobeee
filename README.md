@@ -1,32 +1,37 @@
-Header: Hi there, I’m Ahmed! 👋
-I am an AI Engineer passionate about building AI-driven solutions that solve real-world problems. I specialize in creating multimodal applications that bridge the gap between complex AI models and user-friendly interfaces.
+# Ahmed Mahmoud | AI Automation Consultant
 
-🌟 Featured Project: Skin Care Bot (Beshra Kheir)
-A multimodal AI consultant that provides instant skin analysis and curated product routines.
+**17 Years Operations Experience @ Orange → AI Engineer → Helping Egyptian Businesses Automate**
 
-Tech: Python, Streamlit, Google Gemini (Vision & Pro), Custom CSS.
+---
 
-The Goal: Making dermatological advice accessible and interactive using Generative AI.
+I'm an AI Engineer with deep operations background (17 years at Orange) building production-grade automation systems for Egyptian SMEs.
 
-[Live Demo] | [Repository]
+**What I do:**
+- 🤖 AI Chatbots & Assistants (24/7 customer service)
+- ⚡ Process Automation (cut admin work by 60%+)
+- 📚 RAG Knowledge Systems (that actually answer questions)
+- 🛡️ AI with Human Oversight (compliance-first)
 
-🚀 Technical Skill Set
-Languages: Python (Expert), SQL, HTML/CSS.
+**Why work with me:**
+Not just another dev. I understand business processes, budgets, and real operations. I build systems that actually get used.
 
-AI & Data: Generative AI (Gemini, OpenAI), Prompt Engineering, RAG (Retrieval-Augmented Generation), Image Processing.
+---
 
-Web Frameworks: Streamlit, Flask (or any others you know).
+### Featured Projects
 
-Tools: Git/GitHub, Cursor, VS Code, Streamlit Cloud.
+| Project | Stack | What It Does |
+|---------|-------|--------------|
+| **FinGuard-AI** | LangGraph, Gemini 2.5, RAG | Banking fraud detection with human-in-the-loop approval |
+| **AI-Sales-Crew** | CrewAI, Ollama, DuckDuckGo | Autonomous sales research & personalized outreach |
+| **SkinCareBot** | Computer Vision, Gemini Flash | Multimodal skincare consultant with product matching |
 
-🛠️ Currently Working On
-🤖 Enhancing Skin Care Bot with automated PDF routine generation.
+---
 
-📚 Learning more about advanced RAG techniques and vector databases.
+### Tech Stack
+`Python` `LangChain/LangGraph` `CrewAI` `Gemini` `RAG` `Vector DB` `Streamlit` `Telegram Bots`
 
-✍️ Sharing my journey of building AI products in the Egyptian tech market.
+📍 6th of October, Cairo  
+📧 arnobeee@gmail.com | 📱 +201222910030  
+💼 [LinkedIn](linkedin.com/in/ahmed-mahmoud-2981a086)
 
-📫 How to reach me:
-LinkedIn: https://www.linkedin.com/in/ahmed-mahmoud-2981a086/
-
-Email: arnobeee@gmail.com
+**Open for consulting — First session free.**
